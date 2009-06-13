@@ -1,0 +1,62 @@
+Could not find an acceptable pixel format!
+System: AuthenticAMD
+	AMD Athlon(tm) 64 X2 Dual Core Processor 3800+
+	CPU Features: 3DNow!  (+)  MMX  (+)  SSE  SSE2  SSE3  FPU 
+Initializing Renderer...[DONE]
+Initializing Core Engine [DONE]
+System requested texture resources/textures/cursor.png before it was loaded. Trying to load it now...Loading resource resources/textures/cursor.png... [DONE]
+Loading resource resources/textures/alpha.tga... [DONE]
+Loading resource resources/textures/alpha1.tga... [DONE]
+Loading resource resources/textures/grass.png... [DONE]
+Loading resource resources/textures/rock.png... [DONE]
+Loading resource resources/textures/ground.png... [DONE]
+Loading resource resources/textures/tile_rock0.png... [DONE]
+Loading resource resources/textures/tile_snow.png... [DONE]
+Loading resource resources/textures/loading.png... [DONE]
+Loading resource resources/textures/MullgoreBaseGrass.tga... [DONE]
+Loading resource resources/textures/lightmap.tga... [DONE]
+Loading resource resources/textures/cloud.png... [DONE]
+Loading resource resources/textures/sun.png... [DONE]
+Loading resource resources/textures/terrain_water_caustics.jpg... [DONE]
+Loading resource resources/textures/terrain_water_NM.jpg... [DONE]
+Loading resource resources/shader/ppl... no error
+Successfully compiled shaders
+no error
+Successfully compiled shaders
+Successfully linked shaders
+[DONE]
+Loading resource resources/shader/terrain... no error
+Successfully compiled shaders
+no error
+Successfully compiled shaders
+Successfully linked shaders
+[DONE]
+Loading resource resources/shader/sky... no error
+Successfully compiled shaders
+no error
+Successfully compiled shaders
+Successfully linked shaders
+[DONE]
+Loading resource resources/shader/water... no error
+Successfully compiled shaders
+no error
+Successfully compiled shaders
+Successfully linked shaders
+[DONE]
+Trying to load mesh resources/models/manerothtree.3ds...[DONE]
+Mesh resources/models/manerothtree.3ds: Loading Material MANE2.PNG
+Loading resource resources/textures/MANE2.PNG... [DONE]
+Mesh resources/models/manerothtree.3ds: Loading Material MANE1.PNG
+Loading resource resources/textures/MANE1.PNG... [DONE]
+Mesh resources/models/manerothtree.3ds: Loaded Materials[2]
+Mesh resources/models/manerothtree.3ds: Loaded successfully
+Trying to load mesh resources/models/skydome.3ds...[DONE]
+Mesh resources/models/skydome.3ds: Loaded Materials[1]
+Mesh resources/models/skydome.3ds: Loaded successfully
+Trying to load mesh resources/models/mult.3ds...[DONE]
+Mesh resources/models/mult.3ds: Loading Material MULT_1.TGA
+Loading resource resources/textures/MULT_1.TGA... [DONE]
+Mesh resources/models/mult.3ds: Loading Material MULT_2.TGA
+Loading resource resources/textures/MULT_2.TGA... [DONE]
+Mesh resources/models/mult.3ds: Loaded Materials[2]
+Mesh resources/models/mult.3ds: Loaded successfully
